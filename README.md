@@ -4,7 +4,7 @@ The Recipe Explorer is a multiplatform application built using **Kotlin Multipla
 
 ## How to Run
 
-### Android
+### Android 
 1. Open the project in Android Studio.
 2. Select the **`composeApp`** run configuration with the Android icon.
 3. Select an Android Emulator from the device dropdown.
