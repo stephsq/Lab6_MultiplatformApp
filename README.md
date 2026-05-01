@@ -1,8 +1,8 @@
-## 📱 About The Project
+## About The Project
 
 The Recipe Explorer is a multiplatform application built using **Kotlin Multiplatform** and **Compose Multiplatform**. It allows users to browse a collection of recipes and view their details. 
 
-## 🚀 How to Run
+## How to Run
 
 ### Android
 1. Open the project in Android Studio.
